@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: myapp-container
-    image: quay.io/jwmatthews/sshpod:v0.1
+    image: quay.io/jwmatthews/sshpod:v0.3
     ports:
     - containerPort: 2222
       name: ssh

@@ -1,4 +1,4 @@
-IMG=quay.io/jwmatthews/sshpod:v0.1
+IMG=quay.io/jwmatthews/sshpod:v0.3
 
 SSH_PUB_KEY="./key/sshpod_id_ecdsa.pub"
 SSHKEY=`cat $SSH_PUB_KEY`
